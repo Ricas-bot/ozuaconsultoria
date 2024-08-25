@@ -563,4 +563,12 @@ footer .copyright a, footer .contactos a{
     margin-bottom: 30px;
   }
 
+  .navbar {
+    background-color: var(--primary-color);
+  }
+
+.mouse-cursor {
+    display: none;
+  }
+  
 }

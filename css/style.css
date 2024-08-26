@@ -534,8 +534,7 @@ footer .copyright a, footer .contactos a{
 
 @media (width > 767px) {
   footer {
-    padding: 20px 0;
-    position: relative; /* Certifique-se de que o footer seja posicionado relativamente */
+    position: relative;
   }
   
   footer .copyright {
@@ -543,7 +542,6 @@ footer .copyright a, footer .contactos a{
     color: var(--text-muted);
     bottom: 0;
     width: 100%;
-    text-align: center;
   }
 }
 
